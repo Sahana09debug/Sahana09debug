@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Helmet and numberplate detection**
 
-- 🌱 I’m currently learning **YOLO,JAVA,SQL**
+- 🌱 I’m currently learning JAVA,SQL**
 
 - 📫 How to reach me **sahanan09n@gmail.com**
 
